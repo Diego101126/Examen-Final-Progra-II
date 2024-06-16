@@ -1,0 +1,7 @@
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.csproj.AssemblyReference.cache
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.AssemblyInfoInputs.cache
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.AssemblyInfo.cs
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lucia\source\repos\examen\obj\Debug\net8.0\examen.MvcApplicationPartsAssemblyInfo.cache
